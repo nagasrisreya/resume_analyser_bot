@@ -400,9 +400,3 @@ python bot/main.py
 # Future Research
 
 This project can be extended into a complete AI recruitment platform by integrating Retrieval-Augmented Generation (RAG), vector databases, semantic resume matching, and automated interview assistance, enabling end-to-end intelligent talent acquisition.
-
----
-
-# Authors
-
-Developed as an AI-powered Recruitment Assistant using Python, Telegram Bot API, Groq LLM, and Natural Language Processing.
