@@ -1,0 +1,15 @@
+python-telegram-bot==21.6
+fastapi
+uvicorn
+groq
+python-dotenv
+pdfplumber
+python-docx
+spacy
+sentence-transformers
+scikit-learn
+numpy
+pandas
+sqlalchemy
+pymupdf
+aiofiles

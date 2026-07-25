@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploaded files (user data)
+uploads/resumes/*
+uploads/jd/*
+
+# Keep the folder structure
+!uploads/resumes/.gitkeep
+!uploads/jd/.gitkeep
+
+# Bot uploads
+bot/uploads/resumes/*
+bot/uploads/jd/*
+!bot/uploads/resumes/.gitkeep
+!bot/uploads/jd/.gitkeep
+
+# Database
+database/
+
+# Test artifacts
+tests/__pycache__/
+
+# Logs
+*.log
